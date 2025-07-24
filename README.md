@@ -1,47 +1,40 @@
 # 📄 Resume Analyzer
 
-**AI-Powered Resume Analysis Web App**  
-Get instant feedback on your resume using AI and improve your chances of landing job interviews.
+**Live Site:** 👉 [https://resume-analyse-kappa.vercel.app/](https://resume-analyse-kappa.vercel.app/)
+
+An AI-Powered Resume Analysis web application that gives instant feedback on resumes to help users boost their chances of landing job interviews.
 
 ---
 
 ## 🌟 Features
 
 - 🔍 **AI-Powered Resume Analysis**  
-  Analyze resumes instantly and receive personalized suggestions.
+  Get personalized feedback on your resume's content and formatting.
 
 - ✅ **ATS Optimization**  
-  Checks your resume's compatibility with Applicant Tracking Systems.
+  Checks how your resume performs with Applicant Tracking Systems used by most companies.
 
 - ✍️ **Content Feedback**  
-  Evaluates the structure, clarity, and presentation of your skills, experience, and education.
+  Evaluates the quality and clarity of your resume's content.
 
 - 📊 **Score & Insights**  
-  Displays a performance score, strengths, and areas for improvement.
+  Shows a resume score along with key strengths and improvement suggestions.
 
 - 🧾 **File Upload**  
-  Upload your resume in PDF, DOCX, or TXT format (Max 5MB).
+  Accepts PDF, DOCX, or TXT files up to 5MB.
 
 - 📈 **Detailed Breakdown**  
-  View ATS compatibility, content quality, and design/readability scores.
+  Includes ATS compatibility, content quality, and design/readability scores.
 
-- 🧑‍💼 **Testimonials Section**  
-  Hear from users who improved their resumes and got more interviews.
-
----
-
-## 💻 Technologies Used
-
-- **HTML5** – Page structure  
-- **CSS3** – Styling and layout  
-- **JavaScript (Vanilla JS)** – Interactivity and dynamic content
+- 💬 **Testimonials Section**  
+  Real user stories showing how the tool helped them land interviews.
 
 ---
 
-## 🚀 Getting Started
+## 💻 Tech Stack
 
-### 1. Clone the Repository
+- **HTML5** – Semantic structure  
+- **CSS3** – Responsive styling and layout  
+- **JavaScript (Vanilla JS)** – DOM manipulation, interactivity
 
-```bash
-git clone https://github.com/your-username/resume-analyzer.git
-cd resume-analyzer
+---
